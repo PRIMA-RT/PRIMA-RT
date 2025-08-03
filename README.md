@@ -8,7 +8,6 @@ Playing with Android Cores, Architectures, BLE, OpenStreetMap along with GoogleM
 init { Kotlin } : )
 
 <img width="400" height="250" align="right" alt="Github" src="https://user-images.githubusercontent.com/88109183/212560694-984e83e2-dec3-46af-8fb5-151ff453320d.svg" />
-- I'm a modern mobile developer. </br>
 - Currently working as SDE(Mobile). </br>
 - Learning backend development. </br>
 - * Know well about Linux. </br>
