@@ -52,17 +52,6 @@ You can click the Preview link to take a look at your changes.
 <br />
 <p>&nbsp;</p>
 
-<p align="center">
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=stkrr002&theme=react&show_icons=true&hide=stars&count_private=true" />
-  <img height="150" src ="https://github-readme-streak-stats.herokuapp.com/?user=stkrr002&theme=react" />
-</p>
-
-<br />
  
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/stkrr002/count.svg" />
-</p>
 
