@@ -1,5 +1,12 @@
 # Hi, I'm Sumit Kumar, Software Developer from India.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px">
 ## About Me-
+
+I'm a modern Android developer who loves turning tricky problems into smooth, smart apps. I love building things that not only work great but also feel great to use. I keep up with the latest Android tech and write clean, solid code that makes both "users" and "teams" happy. Whether it's a fresh idea or a tough bug, I'm always up for the challenge, try giving me one : |
+
+Playing with Android Cores, Architectures, BLE, OpenStreetMap along with GoogleMaps. Forming complex compose UI and MVI with TDD approach.
+
+init { Kotlin } : )
+
 <img width="400" height="250" align="right" alt="Github" src="https://user-images.githubusercontent.com/88109183/212560694-984e83e2-dec3-46af-8fb5-151ff453320d.svg" />
 - I'm a modern mobile developer. </br>
 - Currently working as SDE(Mobile). </br>
